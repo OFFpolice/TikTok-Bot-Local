@@ -28,6 +28,28 @@
 - Соблюдайте авторские права и убедитесь, что у вас есть право загружать и распространять контент.
 - Незаконная загрузка контента с нарушением авторских прав запрещена.
 
+## Скриншоты:
+- **Start**
+![Alt text](https://github.com/OFFpolice/TikTok-Bot-Local/blob/main/photo/start.jpg)
+
+- **Help**
+![Alt text](https://github.com/OFFpolice/TikTok-Bot-Local/blob/main/photo/help.jpg)
+
+- **Subscription**
+![Alt text](https://github.com/OFFpolice/TikTok-Bot-Local/blob/main/photo/subscription.jpg)
+
+- **Subscription no**
+![Alt text](https://github.com/OFFpolice/TikTok-Bot-Local/blob/main/photo/subscription_no.jpg)
+
+- **Subscription yes**
+![Alt text](https://github.com/OFFpolice/TikTok-Bot-Local/blob/main/photo/subscription_yes.jpg)
+
+- **Downloads**
+![Alt text](https://github.com/OFFpolice/TikTok-Bot-Local/blob/main/photo/downloads.jpg)
+
+- **Video**
+![Alt text](https://github.com/OFFpolice/TikTok-Bot-Local/blob/main/photo/downloads_video.jpg)
+
 ## Как связаться со мной:
 - [**Telegram**](https://t.me/OFFpolice)
 - [**X (Twitter)**](https://twitter.com/OFFpolice2077)
