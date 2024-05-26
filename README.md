@@ -51,7 +51,7 @@
 ![Alt text](https://github.com/OFFpolice/TikTok-Bot-Local/blob/main/photo/downloads_video.jpg)
 
 ## Как связаться со мной:
-- [**Telegram**](https://t.me/OFFpolice)
+- [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/OFFpolice)
 - [**X (Twitter)**](https://twitter.com/OFFpolice2077)
 - [**Email**](offpolicedev@gmail.com)
 
