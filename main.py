@@ -178,8 +178,6 @@ async def content_download(message: types.Message):
                 text=f"<b>🛑 Ошибка скачивания!</b>\n\n<a href='{message.text}'>Этот видеоролик</a> недоступен. Попробуйте повторить запрос позже!\n\n<b>😵 Ошибка:</b> {e}\n\n<b>🔗 Ссылка на видео:</b>\n<code>{message.text}</code>",
                 parse_mode="HTML"
             )
-            # Удаление видео
-            os.remove(video_path)
             # Логирование ошибки
             logging.error("Ошибка скачивания: %s", e)
             print(f"Ошибка скачивания: {e}")
@@ -196,6 +194,8 @@ async def content_download(message: types.Message):
                 chat_id=message.chat.id,
                 message_id=processing.message_id
             )
+            # Удаление видео
+            os.remove(video_path)
     else:
         # Если сообщение не содержит ссылку на TikTok, отправка сообщения с просьбой прислать ссылку
         message_tiktok = await bot.send_message(
