@@ -156,8 +156,6 @@ async def content_download(message: types.Message):
                 parse_mode="HTML",
                 reply_markup=url_button
             )
-            # Удаление видео
-            os.remove(video_path)
             # Удаление исходного сообщения и сообщений стикера и прогресса
             await bot.delete_message(
                 chat_id=message.chat.id,
@@ -171,6 +169,8 @@ async def content_download(message: types.Message):
                 chat_id=message.chat.id,
                 message_id=processing.message_id
             )
+            # Удаление видео
+            os.remove(video_path)
         except Exception as e:
             # Обработка исключений и отправка сообщения об ошибке
             await bot.send_message(
