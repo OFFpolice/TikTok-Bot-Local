@@ -32,13 +32,13 @@
 
 ## Скриншоты:
 <p align="center">
-  <img src="https://github.com/OFFpolice/TikTok-Bot-Local/blob/main/photo/start.jpg" alt="Start" width="200"/>
-  <img src="https://github.com/OFFpolice/TikTok-Bot-Local/blob/main/photo/help.jpg" alt="Help" width="100"/>
-  <img src="https://github.com/OFFpolice/TikTok-Bot-Local/blob/main/photo/subscription.jpg" alt="Subscription" width="200"/>
-  <img src="https://github.com/OFFpolice/TikTok-Bot-Local/blob/main/photo/subscription_no.jpg" alt="Subscription No" width="200"/>
-  <img src="https://github.com/OFFpolice/TikTok-Bot-Local/blob/main/photo/subscription_yes.jpg" alt="Subscription Yes" width="200"/>
-  <img src="https://github.com/OFFpolice/TikTok-Bot-Local/blob/main/photo/downloads.jpg" alt="Downloads" width="200"/>
-  <img src="https://github.com/OFFpolice/TikTok-Bot-Local/blob/main/photo/downloads_video.jpg" alt="Downloads Video" width="200"/>
+  <img src="https://github.com/OFFpolice/TikTok-Bot-Local/blob/main/photo/start.jpg" alt="Start" width="150"/>
+  <img src="https://github.com/OFFpolice/TikTok-Bot-Local/blob/main/photo/help.jpg" alt="Help" width="150"/>
+  <img src="https://github.com/OFFpolice/TikTok-Bot-Local/blob/main/photo/subscription.jpg" alt="Subscription" width="150"/>
+  <img src="https://github.com/OFFpolice/TikTok-Bot-Local/blob/main/photo/subscription_no.jpg" alt="Subscription No" width="150"/>
+  <img src="https://github.com/OFFpolice/TikTok-Bot-Local/blob/main/photo/subscription_yes.jpg" alt="Subscription Yes" width="150"/>
+  <img src="https://github.com/OFFpolice/TikTok-Bot-Local/blob/main/photo/downloads.jpg" alt="Downloads" width="150"/>
+  <img src="https://github.com/OFFpolice/TikTok-Bot-Local/blob/main/photo/downloads_video.jpg" alt="Downloads Video" width="150"/>
 </p>
 
 ## Как связаться со мной:
