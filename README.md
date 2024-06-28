@@ -43,6 +43,16 @@
   <img src="https://github.com/OFFpolice/TikTok-Bot-Local/blob/main/photo/downloads_video.jpg" alt="Downloads Video" width="200"/>
 </p>
 
+<p align="center">
+  <img src="https://github.com/OFFpolice/TikTok-Bot-Local/blob/main/photo/start.jpg" alt="Start" width="100"/>
+  <img src="https://github.com/OFFpolice/TikTok-Bot-Local/blob/main/photo/help.jpg" alt="Help" width="100"/>
+  <img src="https://github.com/OFFpolice/TikTok-Bot-Local/blob/main/photo/subscription.jpg" alt="Subscription" width="100"/>
+  <img src="https://github.com/OFFpolice/TikTok-Bot-Local/blob/main/photo/subscription_no.jpg" alt="Subscription No" width="100"/>
+  <img src="https://github.com/OFFpolice/TikTok-Bot-Local/blob/main/photo/subscription_yes.jpg" alt="Subscription Yes" width="100"/>
+  <img src="https://github.com/OFFpolice/TikTok-Bot-Local/blob/main/photo/downloads.jpg" alt="Downloads" width="100"/>
+  <img src="https://github.com/OFFpolice/TikTok-Bot-Local/blob/main/photo/downloads_video.jpg" alt="Downloads Video" width="100"/>
+</p>
+
 ## Как связаться со мной:
 [![Telegram Badge](https://img.shields.io/badge/Contact-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/OFFpolice) [![Telegram Badge](https://img.shields.io/badge/Channel-blue?style=flat&logo=telegram&logoColor=white)](ttps://t.me/OFFpoliceChannel) [![Twitter Badge](https://img.shields.io/twitter/follow/:OFFpolice2077)](https://x.com/OFFpolice2077) [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/offpolice2077)
 
